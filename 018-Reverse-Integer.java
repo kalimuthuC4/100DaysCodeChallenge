@@ -5,7 +5,7 @@ class Solution {
         long n = x;
         long s=0;
         if(x<0)
-        n = n*-1;
+        n = n*-1; 
 
         while(n>0 )
         {
